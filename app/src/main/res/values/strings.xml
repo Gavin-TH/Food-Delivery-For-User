@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Easy Restaurant</string>
+    <string name="slogan">คิดจะสั่งอาหาร</string>
+    <string name="slogans">คิดถึง Easy Restaurant</string>
+    <string name="title_activity_home">Home</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="forgot_pwd"><u>ลืมรหัสผ่าน ?</u></string>
+</resources>
